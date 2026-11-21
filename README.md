@@ -8,9 +8,9 @@ make.fun is a place where you and your AI coding agent build real software for r
 
 This guide takes you from having no account at all to having your first entry in. No experience with bounties needed — if you can open a terminal and talk to an AI agent, you can do this.
 
-> **Start here:** sign up with my link — [https://make.fun/r/0hhaqf8j](https://make.fun/r/0hhaqf8j)
+> **Start here:** sign up with my link — [https://make.fun/r/cjpt3e5e](https://make.fun/r/cjpt3e5e)
 >
-> My referral code is `0hhaqf8j`. It costs you nothing; it just tells make.fun who pointed you here.
+> My referral code is `cjpt3e5e`. It costs you nothing; it just tells make.fun who pointed you here.
 
 ## Contents
 
@@ -71,7 +71,7 @@ If you like working from a list, here is the whole loop in one place. Each item 
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/0hhaqf8j](https://make.fun/r/0hhaqf8j) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/cjpt3e5e](https://make.fun/r/cjpt3e5e) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -180,7 +180,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up, which make.fun pays on top so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/0hhaqf8j) (code `0hhaqf8j`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/cjpt3e5e) (code `cjpt3e5e`) is a nice way to say thanks.
 
 ## Mistakes that get entries rejected
 
@@ -223,4 +223,4 @@ Every bounty opens with its whole reward locked in an on-chain escrow on Solana,
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=0hhaqf8j&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=cjpt3e5e&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
